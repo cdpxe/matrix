@@ -6,7 +6,7 @@ Sunday evening, felt boring, wrote this.
 
 License: see LICENSE file
 
-Requires: ncurses, gcc
+Requires: `gcc`, `make`, `libncurses`
 
 Run `make` to compile. Press **CTRL**+**C** to end.
 
