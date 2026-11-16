@@ -1,3 +1,6 @@
+/* LICENSE: see `LICENSE` file.
+ * author: S. Wendzel (https://github.com/cdpxe)
+ */
 #include <ncurses.h>
 #include <strings.h>
 #include <unistd.h>
