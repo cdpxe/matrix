@@ -10,4 +10,5 @@ Requires: `gcc`, `make`, `libncurses`
 
 Run `make` to compile. Press **CTRL**+**C** to end.
 
-Tested: macOS, should run fine with Linux
+Tested: macOS, Linux
+
