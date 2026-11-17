@@ -2,6 +2,7 @@
  * author: S. Wendzel (https://github.com/cdpxe)
  */
 #include <ncurses.h>
+#include <string.h>
 #include <strings.h>
 #include <unistd.h>
 #include <stdlib.h>
